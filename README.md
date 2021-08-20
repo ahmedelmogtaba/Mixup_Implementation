@@ -2,8 +2,8 @@
 
 | Model  | Epoch | Weight_decay| Learning rate | Validation accuracy |
 | ------------- | ------------- |--------------------|--------------------|------------------------------|
-| ERM (Resnet18)  | 200 |   1e-4                         |    0.1                 |                      |
-| Mix_up (Resnet18) | 200 |        1e-4                   |        0.1            |                      |
+| ERM (Resnet18)  | 200 |   1e-4                         |    0.1                 |      95.79                |
+| Mix_up (Resnet18) | 200 |        1e-4                   |        0.1            |        94.63              |
 
 
 
