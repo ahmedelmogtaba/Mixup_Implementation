@@ -30,7 +30,7 @@
 # Third Experiment (Tabular Data) :
 |Dataset| Model  | Epoch |My Result | Paper Result |
 |------------| ------------- | ------------- |--------------------|------------------------------|
-|Abalone DataSet| ERM (MLP)  | 10               |     57.8                |      74.0               |
-|Abalone Dataset| Mix_up (MLP) | 10                |        61.9          |        73.6            |
-|Iris Dataset |ERM (MLP) | 10 |  | 78.7 |
-|Iris Dataset| Mix_up (MLP) | 10   |   | 82.7 |
+|Abalone DataSet| ERM (MLP)  | 10               |     68.5                |      74.0               |
+|Abalone Dataset| Mix_up (MLP) | 10                |        68.1         |        73.6            |
+|Iris Dataset |ERM (MLP) | 10 | 86.6 | 78.7 |
+|Iris Dataset| Mix_up (MLP) | 10   | 89.9  | 82.7 |
