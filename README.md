@@ -27,3 +27,10 @@
 |       ERM (Resnet18)          |      black box attack           |        55.07        |      57.0             | 
 
 
+# Third Experiment (Tabular Data) :
+|Dataset| Model  | Epoch |My Result | Paper Result |
+|------------| ------------- | ------------- |--------------------|------------------------------|
+|Abalone DataSet| ERM (MLP)  | 10               |     57.8                |      74.0               |
+|Abalone Dataset| Mix_up (MLP) | 10                |        61.9          |        73.6            |
+|Iris Dataset |ERM (MLP) | 10 |  | 78.7 |
+|Iris Dataset| Mix_up (MLP) | 10   |   | 82.7 |
